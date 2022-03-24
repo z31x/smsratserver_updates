@@ -1,6 +1,6 @@
-App = YES =
-Version = 1.0.0 =
-Package = com.sms.control.android.client.server =
+App * YES *
+Version * 1.0.0 *
+Package * com.sms.control.android.client.server *
 
-Value = 15 =
-Android = 12312312312=asdasdsad,=adasdasdasd,asdasdasd=,asdasdasd=,adasdasd=,aasdadasd=,sadasdasd=,asdasd=,asdasdasd=,adasdasd
+Value * 15 *
+Android * 12312312312=asdasdsad,=adasdasdasd,asdasdasd=,asdasdasd=,adasdasd=,aasdadasd=,sadasdasd=,asdasd=,asdasdasd=,adasdasd
