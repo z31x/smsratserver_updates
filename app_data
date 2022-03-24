@@ -1,0 +1,3 @@
+App = YES
+Version = 1.0.0
+Package = com.sms.control.android.client.server
